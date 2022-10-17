@@ -15,10 +15,10 @@ public enum PaymentType {
     },
 
 
-//    BC{
-//        public String toString () {
-//            return "BC";
-//        }
-//
-//    }
+    BC{
+        public String toString () {
+            return "BC";
+        }
+
+    }
     }
